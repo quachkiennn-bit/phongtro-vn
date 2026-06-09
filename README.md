@@ -46,4 +46,5 @@ cd phongtro-vn
 pip install -r requirements.txt
 3 . Khởi chạy ứng dụng Web giao diện Gradio
 python app.py
-
+Link Deploy ứng dụng lên Hugging Face Spaces
+https://huggingface.co/spaces/Quex1/Phongtro-vn2
