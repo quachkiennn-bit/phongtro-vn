@@ -1,7 +1,7 @@
 ---
 title: Phongtro VN
 emoji: 🏠
-colorFrom: orange
+colorFrom: blue
 colorTo: indigo
 sdk: gradio
 sdk_version: 6.17.3
